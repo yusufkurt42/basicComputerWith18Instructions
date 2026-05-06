@@ -1,0 +1,190 @@
+D:/projects/verilog_final/REGISTER_FILE2.v {1 {vlog -work work -stats=none D:/projects/verilog_final/REGISTER_FILE2.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module REGISTER_FILE2
+
+Top level modules:
+	REGISTER_FILE2
+
+} {} {}} D:/projects/verilog_final/right_shifter_16.v {1 {vlog -work work -stats=none D:/projects/verilog_final/right_shifter_16.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module right_shifter_16
+
+Top level modules:
+	right_shifter_16
+
+} {} {}} D:/projects/verilog_final/CONTROL_UNIT.v {1 {vlog -work work -stats=none D:/projects/verilog_final/CONTROL_UNIT.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module CONTROL_UNIT
+
+Top level modules:
+	CONTROL_UNIT
+
+} {} {}} D:/projects/verilog_final/right_shifter_8.v {1 {vlog -work work -stats=none D:/projects/verilog_final/right_shifter_8.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module right_shifter_8
+
+Top level modules:
+	right_shifter_8
+
+} {} {}} D:/projects/verilog_final/register_4_bits.v {1 {vlog -work work -stats=none D:/projects/verilog_final/register_4_bits.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module register_4_bits
+
+Top level modules:
+	register_4_bits
+
+} {} {}} D:/projects/verilog_final/adder_18_bits.v {1 {vlog -work work -stats=none D:/projects/verilog_final/adder_18_bits.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module adder_18_bits
+
+Top level modules:
+	adder_18_bits
+
+} {} {}} D:/projects/verilog_final/adder_1_bit_wo_carry.v {1 {vlog -work work -stats=none D:/projects/verilog_final/adder_1_bit_wo_carry.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module adder_1_bit_wo_carry
+
+Top level modules:
+	adder_1_bit_wo_carry
+
+} {} {}} D:/projects/verilog_final/adder_13_bits.v {1 {vlog -work work -stats=none D:/projects/verilog_final/adder_13_bits.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module adder_13_bits
+
+Top level modules:
+	adder_13_bits
+
+} {} {}} D:/projects/verilog_final/zero_extent_10to12.v {1 {vlog -work work -stats=none D:/projects/verilog_final/zero_extent_10to12.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module zero_extent_10to12
+
+Top level modules:
+	zero_extent_10to12
+
+} {} {}} D:/projects/verilog_final/right_shifter_master.v {1 {vlog -work work -stats=none D:/projects/verilog_final/right_shifter_master.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module right_shifter_master
+
+Top level modules:
+	right_shifter_master
+
+} {} {}} D:/projects/verilog_final/register_12_bit.v {1 {vlog -work work -stats=none D:/projects/verilog_final/register_12_bit.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module register_12_bit
+
+Top level modules:
+	register_12_bit
+
+} {} {}} D:/projects/verilog_final/zero_ext_6_bits.v {1 {vlog -work work -stats=none D:/projects/verilog_final/zero_ext_6_bits.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module zero_ext_6_bits
+
+Top level modules:
+	zero_ext_6_bits
+
+} {} {}} D:/projects/verilog_final/adder_1_bit.v {1 {vlog -work work -stats=none D:/projects/verilog_final/adder_1_bit.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module adder_1_bit
+
+Top level modules:
+	adder_1_bit
+
+} {} {}} D:/projects/verilog_final/L_18b_to_12b_converter_5772937f.v {1 {vlog -work work -stats=none D:/projects/verilog_final/L_18b_to_12b_converter_5772937f.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module L_18b_to_12b_converter_5772937f
+
+Top level modules:
+	L_18b_to_12b_converter_5772937f
+
+} {} {}} D:/projects/verilog_final/right_shifter_1.v {1 {vlog -work work -stats=none D:/projects/verilog_final/right_shifter_1.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module right_shifter_1
+
+Top level modules:
+	right_shifter_1
+
+} {} {}} D:/projects/verilog_final/ALU.v {1 {vlog -work work -stats=none D:/projects/verilog_final/ALU.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}} D:/projects/verilog_final/zero_ext_12_bits.v {1 {vlog -work work -stats=none D:/projects/verilog_final/zero_ext_12_bits.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module zero_ext_12_bits
+
+Top level modules:
+	zero_ext_12_bits
+
+} {} {}} D:/projects/verilog_final/right_shifter_2.v {1 {vlog -work work -stats=none D:/projects/verilog_final/right_shifter_2.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module right_shifter_2
+
+Top level modules:
+	right_shifter_2
+
+} {} {}} D:/projects/verilog_final/register_18_bit.v {1 {vlog -work work -stats=none D:/projects/verilog_final/register_18_bit.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module register_18_bit
+
+Top level modules:
+	register_18_bit
+
+} {} {}} D:/projects/verilog_final/PC.v {1 {vlog -work work -stats=none D:/projects/verilog_final/PC.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module PC
+
+Top level modules:
+	PC
+
+} {} {}} D:/projects/verilog_final/adder_12_bits.v {1 {vlog -work work -stats=none D:/projects/verilog_final/adder_12_bits.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module adder_12_bits
+
+Top level modules:
+	adder_12_bits
+
+} {} {}} D:/projects/verilog_final/flip_flop.v {1 {vlog -work work -stats=none D:/projects/verilog_final/flip_flop.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module flip_flop
+
+Top level modules:
+	flip_flop
+
+} {} {}} D:/projects/verilog_final/right_shifter_4.v {1 {vlog -work work -stats=none D:/projects/verilog_final/right_shifter_4.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module right_shifter_4
+
+Top level modules:
+	right_shifter_4
+
+} {} {}} D:/projects/verilog_final/main.v {1 {vlog -work work -stats=none D:/projects/verilog_final/main.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module main
+
+Top level modules:
+	main
+
+} {} {}} D:/projects/verilog_final/converter_10_9_18_upper_3f8ffa3b.v {1 {vlog -work work -stats=none D:/projects/verilog_final/converter_10_9_18_upper_3f8ffa3b.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module converter_10_9_18_upper_3f8ffa3b
+
+Top level modules:
+	converter_10_9_18_upper_3f8ffa3b
+
+} {} {}} D:/projects/verilog_final/L_12_to_13_zero_ext_cff5d813.v {1 {vlog -work work -stats=none D:/projects/verilog_final/L_12_to_13_zero_ext_cff5d813.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module L_12_to_13_zero_ext_cff5d813
+
+Top level modules:
+	L_12_to_13_zero_ext_cff5d813
+
+} {} {}} D:/projects/verilog_final/L_13_to_12_converter_f40e0a7e.v {1 {vlog -work work -stats=none D:/projects/verilog_final/L_13_to_12_converter_f40e0a7e.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module L_13_to_12_converter_f40e0a7e
+
+Top level modules:
+	L_13_to_12_converter_f40e0a7e
+
+} {} {}}
